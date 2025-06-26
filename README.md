@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/navyasri0515/Waste-Management_AI-ML/blob/main/unnamed.jpg" alt="Data Analytics Background" style="width:30%; max-width:200px; height:auto;" />
+  <img src=""https://github.com/ankithkumar08/Images/blob/main/what-is-data-analyst.jpg" alt="Data Analytics Background" style="width:30%; max-width:200px; height:auto;" />
 </div>
 
 <h1 align="center">Hi 👋, I'm NAVYASRI</h1>
